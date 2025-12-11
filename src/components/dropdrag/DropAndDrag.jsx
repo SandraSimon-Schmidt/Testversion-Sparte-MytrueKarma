@@ -12,10 +12,22 @@ import jsPDF from "jspdf";
 import styles from "./DropAndDrag.module.css";
 
 const bundeslaender = [
-  "Baden-Württemberg", "Bayern", "Berlin", "Mecklenburg-Vorpommern",
-  "Bremen", "Hamburg", "Hessen", "Brandenburg",
-  "Niedersachsen", "Nordrhein-Westfalen", "Rheinland-Pfalz", "Saarland",
-  "Sachsen", "Sachsen-Anhalt", "Schleswig-Holstein", "Thüringen",
+  "Baden-Württemberg",
+  "Hamburg",
+  "Berlin",
+  "Bayern",
+  "Mecklenburg-Vorpommern",
+  "Nordrhein-Westfalen",
+  "Brandenburg",
+  "Saarland",
+  "Thüringen",
+  "Niedersachsen",
+  "Rheinland-Pfalz",
+  "Sachsen-Anhalt",
+  "Bremen",
+  "Sachsen",
+  "Hessen",
+  "Schleswig-Holstein",
 ];
 
 const initialStaedte = [
