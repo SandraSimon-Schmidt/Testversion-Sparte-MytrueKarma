@@ -19,9 +19,22 @@ const bundeslaender = [
 ];
 
 const initialStaedte = [
-  "Stuttgart", "München", "Berlin", "Potsdam", "Bremen", "Hamburg",
-  "Wiesbaden", "Schwerin", "Hannover", "Düsseldorf", "Mainz", "Saarbrücken",
-  "Dresden", "Magdeburg", "Kiel", "Erfurt",
+  "Stuttgart",
+  "München",
+  "Berlin",
+  "Potsdam",
+  "Bremen",
+  "Hamburg",
+  "Wiesbaden",
+  "Schwerin",
+  "Hannover",
+  "Düsseldorf",
+  "Mainz",
+  "Saarbrücken",
+  "Dresden",
+  "Magdeburg",
+  "Kiel",
+  "Erfurt",
 ];
 
 const areaClasses = {
